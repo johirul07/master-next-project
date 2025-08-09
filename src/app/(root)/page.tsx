@@ -1,7 +1,8 @@
-
-
-export default function page() {
+import HomeHero from "@/components/HomePageComponent/HomeHero";
+export default function HomePage() {
   return (
-    <div>page</div>
-  )
+    <div>
+      <HomeHero />
+    </div>
+  );
 }
