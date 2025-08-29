@@ -16,6 +16,7 @@ export default function HomeHero() {
         <p className="text-center mt-2 text-neutral-300 relative z-20">
           Framer motion is the best animation library ngl
         </p>
+        <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio temporibus tenetur ratione laudantium voluptatibus voluptas non, maxime doloremque natus? Maiores consequuntur hic dignissimos ad ea magni obcaecati itaque architecto ut.</h1>
       </div>
     </div>
     </div>
